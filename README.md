@@ -1,8 +1,42 @@
 <p align="center">
 
 # ⚡ PROOFCHAIN AI™ ENTERPRISE
+<p align="center">
+  <img src="./assets/proofchain-ai-preview.png" alt="ProofChain AI Preview" width="100%">
+</p>
+## Private Acquisition Package — $7,500 USD
 
+ProofChain AI™ Enterprise is available as a premium acquisition-ready digital asset.
+
+The package includes source code, smart contracts, landing page, enterprise documentation, product positioning, deployment structure, and commercialization rights.
+
+### Schedule Private Acquisition Call
+
+https://cal.com/ciprian-stefan-plesca
 ### Immutable Proof Infrastructure for AI-Generated Business Assets
+
+## Included in Acquisition
+
+- Full source code package
+- Premium landing page
+- Solidity smart contract
+- Enterprise dashboard structure
+- Supabase database schema
+- API route architecture
+- PDF certificate engine
+- Deployment blueprint
+- Enterprise whitepaper
+- Monetization strategy
+- Commercial positioning
+- 30-day post-acquisition support
+
+- ## Availability
+
+This is a private acquisition opportunity.
+
+Repository transfer and full package delivery are available only after private agreement.
+
+Single-buyer transfer can be discussed for exclusive ownership.
 
 <img src="https://img.shields.io/badge/STATUS-Acquisition%20Ready-6f42c1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ARCHITECTURE-Enterprise%20Grade-0a0a0a?style=for-the-badge"/>
