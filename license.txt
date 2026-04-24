@@ -1,0 +1,51 @@
+
+---
+
+# LICENSE.txt (All Rights Reserved)
+
+```txt
+PROOFCHAIN AI™ ENTERPRISE LICENSE
+
+Copyright © 2026 Ciprian Stefan Plesca.
+All Rights Reserved.
+
+This software package, including but not limited to:
+
+- source code
+- frontend assets
+- backend systems
+- smart contracts
+- documentation
+- designs
+- branding
+- architecture
+- business logic
+- derivative materials
+
+is the exclusive intellectual property of Ciprian Stefan Plesca.
+
+No part of this repository may be:
+
+- copied
+- reproduced
+- redistributed
+- sublicensed
+- sold
+- modified for resale
+- republished
+- reverse engineered for commercial cloning
+
+without prior written consent from the copyright holder.
+
+Permission may be granted only through explicit private agreement.
+
+This repository is provided for evaluation, private ownership transfer, or authorized licensing only.
+
+Violation of these terms may result in legal enforcement under applicable international copyright and intellectual property law.
+
+For licensing inquiries:
+
+https://cal.com/ciprian-stefan-plesca
+
+© 2026 Ciprian Stefan Plesca
+All Rights Reserved.
