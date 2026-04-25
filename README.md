@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./assets/proofchain-ai-preview.png" alt="ProofChain AI Preview" width="100%">
 </p>
-## Private Acquisition Package — $7,500 USD
+ Private Acquisition Package — $7,500 USD
 
 ProofChain AI™ Enterprise is available as a premium acquisition-ready digital asset.
 
