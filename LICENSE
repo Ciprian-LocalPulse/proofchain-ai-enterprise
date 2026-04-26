@@ -1,51 +1,80 @@
+# ProofChain AI Enterprise Proprietary License
 
----
+Version 1.1  
+Effective Date: April 26, 2026
 
-# LICENSE.txt (All Rights Reserved)
+Copyright (c) 2026 Ciprian Stefan Plesca. All rights reserved.
 
-```txt
-PROOFCHAIN AI™ ENTERPRISE LICENSE
+## 1. Ownership
 
-Copyright © 2026 Ciprian Stefan Plesca.
-All Rights Reserved.
+ProofChain AI Enterprise, including its name, brand, documentation, visual assets, architecture materials, product positioning, source materials, concepts, and repository contents, is proprietary intellectual property owned by Ciprian Stefan Plesca unless explicitly stated otherwise in writing.
 
-This software package, including but not limited to:
+No ownership rights are transferred by accessing, viewing, cloning, referencing, or interacting with this repository.
 
-- source code
-- frontend assets
-- backend systems
-- smart contracts
-- documentation
-- designs
-- branding
-- architecture
-- business logic
-- derivative materials
+## 2. Public Edition License
 
-is the exclusive intellectual property of Ciprian Stefan Plesca.
+This repository is made publicly visible as the Public Edition of ProofChain AI Enterprise for evaluation, portfolio review, trust/provenance discussion, and commercial discovery.
 
-No part of this repository may be:
+You may:
 
-- copied
-- reproduced
-- redistributed
-- sublicensed
-- sold
-- modified for resale
-- republished
-- reverse engineered for commercial cloning
+- view the public repository materials
+- reference public materials with appropriate attribution
+- evaluate the public materials for potential partnership, licensing, acquisition, or commercial discussion
+- contact the owner regarding authorized commercial use
 
-without prior written consent from the copyright holder.
+This license is not an open source license.
 
-Permission may be granted only through explicit private agreement.
+## 3. Uses Requiring Written Permission
 
-This repository is provided for evaluation, private ownership transfer, or authorized licensing only.
+The following require prior written permission from the owner:
 
-Violation of these terms may result in legal enforcement under applicable international copyright and intellectual property law.
+- commercial use
+- redistribution or republication
+- sublicensing, resale, leasing, or managed-service use
+- white-labeling or client delivery
+- production deployment
+- creation of derivative commercial products
+- use of the ProofChain AI name, marks, branding, or visual identity
+- use of repository materials to train, fine-tune, evaluate, or enrich commercial models or datasets
 
-For licensing inquiries:
+## 4. Public Edition and Private Enterprise Edition
 
-https://cal.com/ciprian-stefan-plesca
+The Public Edition does not include and does not license any Private Enterprise Edition materials, including:
 
-© 2026 Ciprian Stefan Plesca
-All Rights Reserved.
+- private smart contract implementation details
+- production deployment methods
+- wallet, signing, or key-management operations
+- Supabase schemas, storage rules, policies, or service-role flows
+- Stripe configuration, payment flows, webhooks, or secrets
+- certificate-generation internals or anti-tamper logic
+- API keys, credentials, secrets, or environment variables
+- customer, buyer, or client data
+- private playbooks, prompts, runbooks, or commercial implementation details
+
+Access to any Private Enterprise Edition materials requires a separate written agreement.
+
+## 5. Responsible Use
+
+ProofChain AI Enterprise is presented for lawful provenance, verification, trust infrastructure, legal-tech, compliance, and enterprise evaluation purposes.
+
+No rights are granted to use this repository for fraud, false provenance claims, credential misuse, unauthorized access, payment abuse, contract abuse, or any activity outside a lawful and authorized context.
+
+## 6. Trademarks
+
+The ProofChain AI name, brand identity, visual identity, and related marks are proprietary. No trademark or branding rights are granted under this license.
+
+## 7. No Warranty
+
+The repository materials are provided as public evaluation materials on an "as is" and "as available" basis, without warranties of any kind, express or implied.
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the owner is not liable for any damages arising from use, misuse, inability to use, or reliance on the repository materials.
+
+## 9. Reservation of Rights
+
+All rights not expressly granted in this license are reserved by Ciprian Stefan Plesca.
+
+## 10. Commercial Contact
+
+For licensing, partnership, acquisition discussion, enterprise evaluation, or Private Enterprise Edition access, contact the repository owner through the public GitHub profile or the contact path referenced in the repository README.
