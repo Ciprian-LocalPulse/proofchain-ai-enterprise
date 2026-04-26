@@ -25,6 +25,10 @@ This changelog is limited to Public Edition repository changes. It does not disc
 - Updated LICENSE with calmer proprietary license language and clearer public/private boundaries.
 - Governance posture clarified for trust, provenance, legal-tech, compliance, and enterprise evaluation use.
 
+### Removed
+
+- Removed malformed root .githubFUNDING.yml after adding the standard .github/FUNDING.yml path.
+
 ### Not Changed
 
 - No product logic was changed.
